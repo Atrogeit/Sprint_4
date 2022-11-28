@@ -1,0 +1,5 @@
+#ignoring files
+target
+.gitignote
+.idea
+.DS_Store
